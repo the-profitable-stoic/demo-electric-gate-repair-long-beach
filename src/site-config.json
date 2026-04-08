@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Electric Gate Repair Long Beach",
+    "phone": "+15628218688",
+    "category": "fence contractor",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Premier Fence Experts",
+      "heroSubline": "Secure your property with durable, custom fences. Expert installation and repair services across Long Beach.",
+      "aboutTitle": "Built on Trust, Rooted in Long Beach",
+      "aboutText": [
+        "Electric Gate Repair Long Beach started as a small, family-run operation right here in Long Beach. We saw a need for reliable, high-quality fencing solutions that could withstand our unique coastal environment.",
+        "We believe in doing things right the first time. Our approach is simple: listen to our clients, understand their needs, and deliver exceptional workmanship using only the finest materials. We're not just building fences; we're building lasting relationships.",
+        "Long Beach is our home, and we're committed to giving back. We actively support local community initiatives and strive to be a responsible and ethical business, contributing to the safety and beauty of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Long Beach's climate, soil conditions, and architectural styles."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "Tailored fence designs to match your property and security needs."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "High-quality wood, vinyl, and metal built to withstand the elements."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Skilled craftsmanship and attention to detail ensures long-lasting performance."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today",
+      "ctaSubline": "Get a free estimate on your fence project. Call us now to discuss your needs."
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences installed with precision and built to last.",
+        "description": "Wood fences offer timeless appeal and a natural aesthetic, perfect for Long Beach's diverse neighborhoods. We specialize in constructing durable wood fences that can withstand the intense Long Beach sun and occasional Santa Ana winds. Our wood fences are pressure treated to resist rot and insect damage, ensuring longevity and beauty. Choose from a variety of wood types, including redwood, cedar, and pine, to create a custom look that complements your home. We handle everything from permits to post setting, ensuring a seamless installation process. Whether you're looking for a privacy fence, picket fence, or decorative fence, we've got you covered. We also offer staining and sealing services to protect your investment and enhance its natural beauty.\n\nOur team understands the nuances of working with wood in a coastal environment. We use proven techniques to minimize warping and cracking, ensuring your fence looks great for years to come. We take pride in our craftsmanship and attention to detail, delivering wood fences that are both functional and aesthetically pleasing. We can also integrate custom gates and access points to seamlessly blend with your new fence.\n\nWe offer full wood fence repair services as well. From replacing broken pickets and posts to reinforcing sagging sections, we'll make sure your wood fence stays strong and beautiful.",
+        "process": [
+          "Step 1: On-site consultation and design planning",
+          "Step 2: Material selection and permit acquisition",
+          "Step 3: Precise post setting and framework construction",
+          "Step 4: Professional wood installation, staining, and sealing"
+        ],
+        "benefits": [
+          "Enhanced property value and curb appeal",
+          "Increased privacy and security",
+          "Natural aesthetic that complements any landscape",
+          "Durable construction built to withstand the elements"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for fences in Long Beach?",
+            "answer": "Redwood and cedar are excellent choices due to their natural resistance to decay and insects. Pressure-treated pine is a cost-effective alternative."
+          },
+          {
+            "question": "How long will a wood fence last in Long Beach?",
+            "answer": "With proper maintenance, a well-constructed wood fence can last 15-20 years or more."
+          },
+          {
+            "question": "Do I need a permit to install a wood fence in Long Beach?",
+            "answer": "Yes, a permit is typically required for fence installations. We handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences for lasting beauty and security.",
+        "description": "Vinyl fences are a popular choice for Long Beach homeowners seeking a durable, low-maintenance fencing solution. Resistant to fading, warping, and cracking, vinyl fences stand up to the harsh coastal climate without requiring painting or staining. Our vinyl fences come in a variety of styles and colors to complement any architectural style, from classic white picket fences to modern privacy fences. We offer professional installation services, ensuring your vinyl fence is properly installed and built to last.\n\nWe use only high-quality vinyl materials that are UV-resistant to prevent fading and discoloration. Our experienced installers take pride in their workmanship, ensuring your fence is level, secure, and aesthetically pleasing. Vinyl is a great choice for the Long Beach area, where the sun can damage less durable materials. It’s also easy to clean and maintain, making it a great choice for busy homeowners.\n\nVinyl fence repair is also one of our specialties. Cracks, warping, or other damage? We can help.",
+        "process": [
+          "Step 1: Consultation and design selection",
+          "Step 2: Precise measurements and layout planning",
+          "Step 3: Professional post installation and panel assembly",
+          "Step 4: Final inspection and quality assurance"
+        ],
+        "benefits": [
+          "Exceptional durability and weather resistance",
+          "Minimal maintenance requirements",
+          "Variety of styles and colors to choose from",
+          "Increased property value and curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last in Long Beach?",
+            "answer": "A high-quality vinyl fence can last 30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Does vinyl fencing fade in the sun?",
+            "answer": "Our vinyl fences are UV-resistant and designed to minimize fading and discoloration."
+          },
+          {
+            "question": "Can vinyl fences be damaged by strong winds?",
+            "answer": "Our vinyl fences are engineered to withstand strong winds, but extreme weather conditions can cause damage. We offer repair services to address any issues."
+          }
+        ]
+      },
+      {
+        "slug": "metal-fence-installation",
+        "name": "Metal Fence Installation",
+        "shortDescription": "Strong and stylish metal fences for security and elegance.",
+        "description": "Metal fences offer a combination of security, durability, and aesthetic appeal. Ideal for Long Beach properties seeking enhanced protection, our metal fences are constructed from high-quality steel or aluminum and finished with a powder coating for superior weather resistance. Choose from a range of styles, including wrought iron, ornamental steel, and chain-link, to create a custom look that complements your property. We provide expert installation services, ensuring your metal fence is securely anchored and built to last.\n\nMetal fences are a great choice for Long Beach, offering security and durability in a stylish package. Whether you're looking to enclose a pool area, secure your property perimeter, or add a decorative touch to your landscape, we have a metal fence solution to meet your needs. Our metal fences are also resistant to pests and fire, making them a safe and reliable choice for Long Beach homeowners. We take pride in our craftsmanship and attention to detail, delivering metal fences that are both functional and aesthetically pleasing.\n\nWe provide metal fence repair services for damaged or weathered fences. Welding, rust removal, and protective coatings are all part of our fence repair service.",
+        "process": [
+          "Step 1: Site assessment and design consultation",
+          "Step 2: Material selection and fabrication",
+          "Step 3: Professional installation with secure anchoring",
+          "Step 4: Finishing and protective coating application"
+        ],
+        "benefits": [
+          "Enhanced security and protection",
+          "Long-lasting durability and weather resistance",
+          "Variety of styles to complement any property",
+          "Low maintenance requirements"
+        ],
+        "faq": [
+          {
+            "question": "Are metal fences prone to rust in Long Beach's coastal climate?",
+            "answer": "Our metal fences are powder-coated for superior rust resistance. Regular maintenance can further extend their lifespan."
+          },
+          {
+            "question": "Can metal fences be customized to match my property's style?",
+            "answer": "Yes, we offer a range of styles and finishes to customize your metal fence to your preferences."
+          },
+          {
+            "question": "Do metal fences require painting?",
+            "answer": "Our powder-coated metal fences do not require painting. The powder coating provides long-lasting protection and color."
+          }
+        ]
+      },
+      {
+        "slug": "gate-repair-and-installation",
+        "name": "Gate Repair and Installation",
+        "shortDescription": "Expert gate services for smooth operation and enhanced security.",
+        "description": "A properly functioning gate is essential for security and convenience. We offer comprehensive gate repair and installation services for Long Beach residents. Whether you need a new gate installed, an existing gate repaired, or an automatic gate system serviced, we have the expertise and experience to get the job done right. We work with all types of gates, including wood, vinyl, metal, and automatic gates.\n\nOur gate repair services include hinge replacement, latch repair, gate realignment, and automatic gate system troubleshooting. We use only high-quality parts and materials to ensure lasting repairs. Our installation services include custom gate design, fabrication, and professional installation. We can help you choose the right gate style and material to complement your property and meet your security needs. We also offer automatic gate opener installation and repair services.\n\nWe understand the importance of a secure and reliable gate. Our team is committed to providing prompt, professional service and exceptional workmanship. We stand behind our work and guarantee your satisfaction.",
+        "process": [
+          "Step 1: Thorough gate inspection and diagnosis",
+          "Step 2: Repair or replacement of damaged components",
+          "Step 3: Alignment and adjustment for smooth operation",
+          "Step 4: Testing and quality assurance"
+        ],
+        "benefits": [
+          "Enhanced security and convenience",
+          "Smooth and reliable gate operation",
+          "Increased property value",
+          "Peace of mind knowing your gate is in good working order"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gate serviced?",
+            "answer": "We recommend annual gate servicing to ensure smooth operation and prevent costly repairs."
+          },
+          {
+            "question": "Can you repair my automatic gate opener?",
+            "answer": "Yes, we specialize in automatic gate opener repair and installation."
+          },
+          {
+            "question": "What are the signs that my gate needs repair?",
+            "answer": "Signs of gate problems include squeaking, sagging, difficulty opening or closing, and rust or corrosion."
+          }
+        ]
+      },
+      {
+        "slug": "fence-staining-and-sealing",
+        "name": "Fence Staining and Sealing",
+        "shortDescription": "Protect and beautify your wood fence with professional staining and sealing.",
+        "description": "Protect your wood fence from the elements with our professional staining and sealing services. Long Beach's intense sun and occasional rain can wreak havoc on wood fences, causing them to fade, crack, and warp. Our staining and sealing services help to protect your fence from these damaging effects, extending its lifespan and enhancing its natural beauty. We use only high-quality stains and sealants that are specifically designed for outdoor use.\n\nOur staining process involves thorough cleaning and preparation of the wood surface, followed by the application of a high-quality stain in your choice of color. Our sealing process involves applying a sealant that penetrates the wood and protects it from moisture damage. We offer a variety of stain colors to complement your home and landscape. Our experienced technicians take pride in their workmanship, ensuring a smooth, even finish.\n\nProperly staining and sealing your wood fence can significantly extend its lifespan and prevent costly repairs. Protect your investment with our professional staining and sealing services.",
+        "process": [
+          "Step 1: Thorough fence cleaning and preparation",
+          "Step 2: Application of high-quality stain or sealant",
+          "Step 3: Even distribution and penetration for optimal protection",
+          "Step 4: Final inspection and quality assurance"
+        ],
+        "benefits": [
+          "Extended fence lifespan",
+          "Enhanced natural beauty",
+          "Protection from sun, rain, and pests",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain and seal my wood fence?",
+            "answer": "We recommend staining and sealing your wood fence every 2-3 years to maintain its beauty and protection."
+          },
+          {
+            "question": "What type of stain is best for fences in Long Beach?",
+            "answer": "Oil-based stains offer superior protection from the elements, while water-based stains are more environmentally friendly."
+          },
+          {
+            "question": "Can I stain and seal my fence myself?",
+            "answer": "While DIY staining and sealing is possible, professional application ensures a smooth, even finish and optimal protection."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fence-installation",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Affordable and practical chain link fences for security and containment.",
+        "description": "Chain link fences are a cost-effective and practical solution for securing your property in Long Beach. Ideal for residential, commercial, and industrial applications, chain link fences offer reliable security and containment at an affordable price. We offer professional chain link fence installation services, ensuring your fence is properly installed and built to last. Our chain link fences are available in a variety of heights and gauges to meet your specific needs.\n\nChain link fences are a popular choice for Long Beach businesses and homeowners seeking a durable and low-maintenance fencing solution. Whether you need to enclose a yard, secure a construction site, or protect your property perimeter, we have a chain link fence solution to meet your needs. Our chain link fences are galvanized for rust resistance and are available with optional vinyl coating for added protection and aesthetic appeal.\n\nWe have years of experience installing security fencing in Long Beach. We are committed to providing prompt, professional service and exceptional workmanship. We stand behind our work and guarantee your satisfaction.",
+        "process": [
+          "Step 1: Site evaluation and layout planning",
+          "Step 2: Post installation with concrete anchoring",
+          "Step 3: Mesh attachment and tensioning",
+          "Step 4: Gate installation and hardware adjustment"
+        ],
+        "benefits": [
+          "Affordable security and containment",
+          "Durable and low-maintenance",
+          "Versatile for residential, commercial, and industrial applications",
+          "Galvanized for rust resistance"
+        ],
+        "faq": [
+          {
+            "question": "How long will a chain link fence last in Long Beach?",
+            "answer": "A well-maintained chain link fence can last 20-30 years or more."
+          },
+          {
+            "question": "Can I add privacy slats to my chain link fence?",
+            "answer": "Yes, we offer privacy slats in a variety of colors to enhance the privacy of your chain link fence."
+          },
+          {
+            "question": "Are chain link fences easy to climb?",
+            "answer": "While chain link fences can be climbed, the addition of barbed wire or anti-climb mesh can deter intruders."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Electric Gate Repair Long Beach installed a beautiful redwood fence in my backyard. The team was professional, efficient, and the fence looks amazing! It really enhances the curb appeal of my home. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gate Repair",
+        "text": "My automatic gate was malfunctioning, and Electric Gate Repair Long Beach came out and fixed it quickly. The technician was knowledgeable and explained the problem clearly. Great service!",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "I love my new vinyl fence! It's exactly what I wanted, and the installation was seamless. The crew was respectful of my property and cleaned up everything afterward. Very happy with the results.",
+        "date": "2025-04-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Fence Staining",
+        "text": "Electric Gate Repair Long Beach did an excellent job staining my wood fence. It looks brand new! The team was meticulous and paid attention to every detail. I would definitely use them again.",
+        "date": "2025-05-01"
+      },
+      {
+        "name": "Susan H.",
+        "rating": 4,
+        "service": "Metal Fence Installation",
+        "text": "We hired Electric Gate Repair Long Beach to install a metal fence around our commercial property. The fence is sturdy and provides excellent security. The installation process was smooth and efficient.",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Chain Link Fence Installation",
+        "text": "Needed a quick and affordable solution to secure my backyard. Electric Gate Repair Long Beach installed a chain link fence that got the job done! Fast service and fair pricing.",
+        "date": "2025-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Electric Gate Repair Long Beach | Fence Contractor",
+        "description": "Long Beach's trusted fence contractor. Expert wood, vinyl, and metal fence installation & repair. Secure your property today!"
+      },
+      "about": {
+        "title": "About Us | Electric Gate Repair Long Beach",
+        "description": "Learn about Electric Gate Repair Long Beach. Local experts providing quality fence solutions. Family-owned & community-focused."
+      },
+      "services": {
+        "title": "Fence Services | Electric Gate Repair Long Beach",
+        "description": "Comprehensive fence services in Long Beach. Wood, vinyl, metal fence installation, repair, staining, and gate services."
+      },
+      "contact": {
+        "title": "Contact Us | Electric Gate Repair Long Beach",
+        "description": "Contact Electric Gate Repair Long Beach for a free fence estimate. Serving Long Beach and surrounding areas. Call us today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Electric Gate Repair Long Beach",
+        "description": "Read reviews for Electric Gate Repair Long Beach. See what our satisfied customers say about our quality fence services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Electric Gate Repair Long Beach",
+        "description": "Electric Gate Repair Long Beach provides fence services across Long Beach and surrounding cities. Find a fence contractor near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Electric Gate Repair Long Beach is proud to offer our expert fence and gate services throughout Los Angeles. From the iconic Hollywood Hills to the vibrant downtown area, we understand the unique needs of Los Angeles residents. We specialize in providing durable and aesthetically pleasing fencing solutions that complement the city's diverse architectural styles. Whether you own a classic 1920s Spanish Colonial Revival home or a modern condo, we can help secure your property with a beautiful and functional fence or gate.\n\nOur team is experienced in working with all types of fencing materials, including wood, vinyl, wrought iron, and chain link. We also offer gate repair and installation services to ensure your property is safe and secure. Los Angeles experiences a warm, dry climate year-round, so we focus on using materials that are resistant to the elements and will last for years to come. We are committed to providing exceptional customer service and top-quality workmanship to all of our Los Angeles clients.",
+        "localContext": "Los Angeles is known for its diverse architecture, including many 1920s Spanish Colonial Revival homes, and its warm, dry climate.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Electric Gate Repair Long Beach extends its services to the charming city of Pasadena. Known for its beautiful tree-lined streets and historic architecture, Pasadena presents unique fencing needs. We offer a range of fencing options to complement the city's many 1910s-30s Craftsman bungalows.\n\nWe specialize in crafting fences that enhance the curb appeal of your home while providing security and privacy. From classic wood picket fences to ornate wrought iron designs, we can create a custom fence that perfectly matches your style. Pasadena's warm, dry climate makes it ideal for outdoor living, and our fences are designed to withstand the elements and provide years of enjoyment. We are dedicated to providing Pasadena residents with exceptional service and quality craftsmanship.",
+        "localContext": "Pasadena is characterized by its many 1910s-30s Craftsman bungalows and warm, dry climate.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "South Pasadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Electric Gate Repair Long Beach proudly serves the master-planned community of Irvine. With its meticulously designed neighborhoods and focus on community, Irvine requires fencing solutions that are both functional and aesthetically pleasing. We understand the unique needs of Irvine homeowners and offer a range of fencing options to complement the city's modern architecture.\n\nFrom wood and vinyl fences to wrought iron and chain link, we can help you find the perfect fence for your property. We also offer gate repair and installation services to ensure your property is secure. Irvine's warm, dry climate makes it important to choose fencing materials that are resistant to the elements. We are committed to providing Irvine residents with exceptional service and top-quality workmanship.",
+        "localContext": "Irvine is known as a master-planned community with homes built from the 1970s to the present and a warm, dry climate.",
+        "nearbyAreas": [
+          "Newport Beach",
+          "Tustin",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Electric Gate Repair Long Beach is pleased to offer our services to the growing community of Santa Clarita. Known for its newer master-planned communities, Santa Clarita requires fencing solutions that are both modern and durable. We offer a variety of fencing options to complement the city's contemporary architecture.\n\nWe specialize in designing and installing fences that provide security, privacy, and curb appeal. From wood and vinyl to wrought iron and chain link, we can help you find the perfect fence for your property. Santa Clarita experiences a warm, dry climate, so we focus on using materials that are resistant to the elements and will last for years to come. We are committed to providing Santa Clarita residents with exceptional service and top-quality workmanship.",
+        "localContext": "Santa Clarita is characterized by its newer master-planned communities built from the 1990s to the 2020s and a warm, dry climate.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Electric Gate Repair Long Beach is proud to serve the city of Torrance, offering expert fence and gate solutions tailored to its unique character. With a mix of 1950s-60s post-war homes, Torrance requires fencing that blends functionality with the classic Southern California aesthetic. We provide a range of services to enhance your property's security and curb appeal.\n\nOur team specializes in working with various fencing materials, including wood, vinyl, and chain link, ensuring durability and longevity in Torrance's warm, dry climate. Whether you need a new fence installation, gate repair, or routine maintenance, we are committed to delivering exceptional customer service and top-quality workmanship to all Torrance residents. We understand the importance of a secure and beautiful property, and we're here to help you achieve it.",
+        "localContext": "Torrance features many 1950s-60s post-war homes and enjoys a warm, dry climate.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Gardena",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Electric Gate Repair Long Beach is your trusted local provider for all your fencing and gate needs in Long Beach. We are committed to serving our community with high-quality workmanship and exceptional customer service. We offer a wide range of services to enhance the security and beauty of your property.\n\nFrom new fence installations to gate repairs, we are equipped to handle any project. We provide customized solutions to fit your specific needs and preferences. Our team is experienced in working with various fencing materials, including wood, vinyl, and wrought iron. We take pride in our attention to detail and dedication to customer satisfaction. Contact us today for a free consultation.",
+        "localContext": "Long Beach has a diverse range of architectural styles and a warm climate.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-ca",
+        "state": "CA",
+        "content": "Electric Gate Repair Long Beach is pleased to offer our professional fence and gate services to the residents of Lakewood. We understand the importance of security and privacy for your home or business. We provide quality fences and gates to enhance your property's safety and curb appeal.\n\nOur team is highly skilled and experienced in installing and repairing all types of fences and gates. We offer a variety of materials and styles to choose from, ensuring that you find the perfect solution for your needs. We are dedicated to providing excellent customer service and ensuring your complete satisfaction. Contact us today to learn more about our services.",
+        "localContext": "Lakewood is a well-established residential community with a warm and sunny climate.",
+        "nearbyAreas": [
+          "Long Beach",
+          "Bellflower",
+          "Cerritos"
+        ]
+      },
+      {
+        "city": "Carson",
+        "slug": "carson-ca",
+        "state": "CA",
+        "content": "Electric Gate Repair Long Beach is committed to providing top-notch fence and gate services to the community of Carson. We understand the unique needs of homeowners and businesses in Carson and offer customized solutions to meet those needs. Our focus is on delivering quality workmanship and exceptional customer service.\n\nWhether you need a new fence installed, a gate repaired, or routine maintenance, our team is here to help. We offer a wide range of fencing materials, including wood, vinyl, and chain link. We are dedicated to ensuring your satisfaction and providing you with a secure and beautiful property. Contact us today for a free estimate.",
+        "localContext": "Carson is a diverse community with a mix of residential and commercial properties, enjoying a warm climate.",
+        "nearbyAreas": [
+          "Torrance",
+          "Long Beach",
+          "Dominguez Hills"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "metal-fence-installation": "/images/service-metal-fence-installation.webp",
+      "gate-repair-and-installation": "/images/service-gate-repair-and-installation.webp",
+      "fence-staining-and-sealing": "/images/service-fence-staining-and-sealing.webp",
+      "chain-link-fence-installation": "/images/service-chain-link-fence-installation.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "metal-fence-installation": {
+        "src": "/images/service-metal-fence-installation.webp",
+        "srcset": "/images/service-metal-fence-installation-400w.webp 400w, /images/service-metal-fence-installation-800w.webp 800w, /images/service-metal-fence-installation-1200w.webp 1200w, /images/service-metal-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-repair-and-installation": {
+        "src": "/images/service-gate-repair-and-installation.webp",
+        "srcset": "/images/service-gate-repair-and-installation-400w.webp 400w, /images/service-gate-repair-and-installation-800w.webp 800w, /images/service-gate-repair-and-installation-1200w.webp 1200w, /images/service-gate-repair-and-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-staining-and-sealing": {
+        "src": "/images/service-fence-staining-and-sealing.webp",
+        "srcset": "/images/service-fence-staining-and-sealing-400w.webp 400w, /images/service-fence-staining-and-sealing-800w.webp 800w, /images/service-fence-staining-and-sealing-1200w.webp 1200w, /images/service-fence-staining-and-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fence-installation": {
+        "src": "/images/service-chain-link-fence-installation.webp",
+        "srcset": "/images/service-chain-link-fence-installation-400w.webp 400w, /images/service-chain-link-fence-installation-800w.webp 800w, /images/service-chain-link-fence-installation-1200w.webp 1200w, /images/service-chain-link-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

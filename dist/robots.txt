@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-electric-gate-repair-long-beach.dream-surge.com/sitemap-index.xml
